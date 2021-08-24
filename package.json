@@ -1,0 +1,20 @@
+{
+  "name": "urltime",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Martin Olsson <martin@minimum.se> (https://mo.github.io)",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  },
+  "dependencies": {
+    "node": "^16.6.1",
+    "playwright": "^1.14.0"
+  }
+}
